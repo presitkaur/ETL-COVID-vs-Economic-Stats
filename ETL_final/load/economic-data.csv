@@ -1,4 +1,4 @@
-location,stringency_index,population_density,median_age,aged_65_older,aged_70_older,gdp_per_capita,extreme_poverty,cardiovasc_death_rate,diabetes_prevalence,handwashing_facilities,hospital_beds_per_thousand,life_expectancy,human_development_index
+location,stringency_index,population_density,median_age,aged_65_and_older,aged_70_and_older,gdp_per_capita,extreme_poverty,cardiovascular_death_rate,diabetes_prevalence,handwashing_facilities,hospital_beds_per_thousand,life_expectancy,human_development_index
 Afghanistan,41.88669354838743,54.42199999999983,18.600000000000115,2.5810000000000115,1.3369999999999924,1803.9869999999985,,597.0290000000028,9.590000000000044,37.7459999999997,0.5,64.83000000000054,0.5109999999999975
 Africa,,,,,,,,,,,,,
 Albania,63.921617250673634,104.87099999999937,38.0,13.188000000000079,8.643000000000022,11803.43099999995,1.1000000000000065,304.1950000000029,10.079999999999952,,2.889999999999996,78.56999999999975,0.7949999999999977
