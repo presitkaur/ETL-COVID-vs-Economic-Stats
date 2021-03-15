@@ -1,0 +1,237 @@
+Location,Cases - cumulative total,Deaths - cumulative total,Transmission Classification,Population (2020)
+United States of America,28825174,522469,Community transmission,1382345085.0
+India,11262707,158063,Clusters of cases,331341050.0
+Brazil,11051665,266398,Community transmission,274021604.0
+Russian Federation,4351553,90275,Clusters of cases,221612785.0
+The United Kingdom,4229002,124797,Community transmission,212821986.0
+France,3864335,88813,Community transmission,206984347.0
+Spain,3164983,71727,Community transmission,164972348.0
+Italy,3101093,100479,Clusters of cases,145945524.0
+Turkey,2807387,29160,Community transmission,129166028.0
+Germany,2518591,72489,Community transmission,126407422.0
+Colombia,2278861,60598,Community transmission,115434444.0
+Argentina,2162001,53252,Community transmission,109830324.0
+Mexico,2130477,190923,Community transmission,102659126.0
+Poland,1828313,45997,Community transmission,97490013.0
+Iran (Islamic Republic of),1706559,60867,Community transmission,90003954.0
+South Africa,1522697,50906,Community transmission,84495243.0
+Ukraine,1416438,27423,Community transmission,84176929.0
+Indonesia,1392945,37757,Community transmission,83830972.0
+Peru,1374467,47973,Community transmission,69830779.0
+Czechia,1351195,22385,Community transmission,67948282.0
+Netherlands,1128202,15917,Community transmission,65298930.0
+Canada,890698,22276,Community transmission,60446035.0
+Chile,864064,21182,Community transmission,60012400.0
+Romania,835552,21056,Community transmission,59436725.0
+Portugal,811306,16595,Clusters of cases,54473253.0
+Israel,806257,5925,Community transmission,53968739.0
+Belgium,791171,22327,Community transmission,51276977.0
+Iraq,735626,13618,Community transmission,50976248.0
+Sweden,695975,13042,Community transmission,46757980.0
+Philippines,600428,12528,Community transmission,45974931.0
+Pakistan,593453,13281,Community transmission,45267449.0
+Switzerland,563742,9307,Community transmission,43984569.0
+Bangladesh,552087,8489,Community transmission,44019263.0
+Serbia,494106,4599,Community transmission,43686577.0
+Morocco,486833,8695,Clusters of cases,40372771.0
+Hungary,480860,16325,Community transmission,39074280.0
+Austria,475979,8582,Community transmission,37839255.0
+Jordan,442202,5046,Community transmission,37799407.0
+Japan,441279,8353,Clusters of cases,36985624.0
+United Arab Emirates,415705,1345,Community transmission,34905942.0
+Lebanon,401810,5134,Community transmission,33551824.0
+Saudi Arabia,380572,6539,Sporadic cases,33050211.0
+Panama,345236,5934,Community transmission,33032075.0
+Slovakia,329593,8146,Clusters of cases,32436963.0
+Malaysia,316269,1186,Clusters of cases,31398811.0
+Belarus,297514,2055,Community transmission,31181428.0
+Ecuador,295114,16069,Community transmission,29935468.0
+Nepal,274869,3012,Clusters of cases,29225196.0
+Georgia,273650,3613,Community transmission,28421581.0
+Kazakhstan,268902,3456,Clusters of cases,27808395.0
+Bulgaria,266805,10902,Clusters of cases,26655083.0
+Bolivia (Plurinational State of),254736,11845,Community transmission,26486282.0
+Croatia,248061,5625,Community transmission,25798588.0
+Dominican Republic,243778,3191,Community transmission,25550683.0
+Tunisia,238613,8268,Community transmission,24346468.0
+Azerbaijan,237260,3250,Clusters of cases,23824369.0
+"occupied Palestinian territory, including east Jerusalem",226734,2400,Community transmission,21428970.0
+Ireland,223957,4452,Community transmission,20997293.0
+Denmark,215791,2381,Community transmission,20346106.0
+Greece,209462,6843,Community transmission,19214608.0
+Costa Rica,207460,2841,Community transmission,19211425.0
+Lithuania,203386,3351,Community transmission,19144605.0
+Kuwait,203055,1141,Community transmission,18815231.0
+Republic of Moldova,196475,4150,Community transmission,18468257.0
+Slovenia,196422,4169,Clusters of cases,17971382.0
+Egypt,187716,11082,Clusters of cases,17688599.0
+Guatemala,179563,6493,Community transmission,17571053.0
+Armenia,175538,3237,Community transmission,17141544.0
+Honduras,174243,4283,Community transmission,16816539.0
+Paraguay,169860,3343,Community transmission,16758448.0
+Ethiopia,168335,2451,Community transmission,16502877.0
+Qatar,167888,264,Community transmission,15965848.0
+Nigeria,159252,1988,Community transmission,14899771.0
+Oman,144831,1597,Community transmission,13191279.0
+Venezuela (Bolivarian Republic of),142774,1391,Community transmission,13005303.0
+Myanmar,142059,3200,Clusters of cases,12175480.0
+Libya,140688,2297,Community transmission,11948454.0
+Bosnia and Herzegovina,138542,5345,Community transmission,11839918.0
+Bahrain,127800,474,Clusters of cases,11700207.0
+Algeria,114543,3022,Community transmission,11598451.0
+Albania,114209,1969,Clusters of cases,11426356.0
+Kenya,109643,1886,Community transmission,11325391.0
+North Macedonia,108350,3228,Community transmission,11216250.0
+China,102152,4848,Clusters of cases,10866667.0
+Puerto Rico,101937,2066,Community transmission,10712481.0
+Republic of Korea,93733,1648,Clusters of cases,10413936.0
+Latvia,90997,1705,Community transmission,10220604.0
+Kyrgyzstan,86640,1476,Clusters of cases,10191409.0
+Ghana,86465,647,Community transmission,10154978.0
+Sri Lanka,86343,511,Clusters of cases,10110233.0
+Zambia,82897,1137,Community transmission,9931333.0
+Montenegro,80799,1085,Clusters of cases,9910892.0
+Uzbekistan,80268,622,Clusters of cases,9655983.0
+Estonia,78973,677,Clusters of cases,9573310.0
+Norway,75768,632,Community transmission,9448772.0
+Kosovo[1],74036,1658,Community transmission,9015361.0
+Uruguay,64700,658,Community transmission,8975531.0
+Finland,63110,776,Community transmission,8731081.0
+Mozambique,62882,700,Community transmission,8678517.0
+El Salvador,61539,1923,Community transmission,8665615.0
+Singapore,60052,29,Sporadic cases,8310934.0
+Cuba,57607,352,Community transmission,8004158.0
+Luxembourg,56822,668,Community transmission,7507523.0
+Afghanistan,55894,2451,Clusters of cases,7293542.0
+Uganda,40490,334,Community transmission,7147553.0
+Namibia,40337,444,Community transmission,6939018.0
+Cameroon,38988,588,Community transmission,6887247.0
+Cyprus,37650,233,Clusters of cases,6819976.0
+Zimbabwe,36321,1489,Community transmission,6638075.0
+Senegal,35959,925,Community transmission,6542426.0
+Côte d’Ivoire,35331,204,Community transmission,6491923.0
+Botswana,32912,413,Community transmission,6046292.0
+Malawi,32528,1074,Community transmission,5858322.0
+Sudan,30686,1915,Community transmission,5795780.0
+Australia,29061,909,Clusters of cases,5542237.0
+Jamaica,27465,460,Community transmission,5540555.0
+Democratic Republic of the Congo,26626,712,Community transmission,5460109.0
+Thailand,26540,85,Clusters of cases,5428594.0
+Malta,24847,335,Clusters of cases,5128058.0
+Angola,21114,516,Community transmission,5121112.0
+Maldives,21034,64,Clusters of cases,5102158.0
+Madagascar,20155,300,Community transmission,5077411.0
+Rwanda,19779,270,Community transmission,4947267.0
+French Polynesia,18495,141,Sporadic cases,4843954.0
+Mayotte,18413,129,Community transmission,4829021.0
+Mauritania,17365,442,Community transmission,4669775.0
+Eswatini,17191,658,Community transmission,4326296.0
+Guinea,16912,97,Community transmission,4281320.0
+French Guiana,16693,87,Community transmission,4100719.0
+Syrian Arab Republic,16117,1074,Community transmission,4032294.0
+Gabon,16015,91,Community transmission,3987805.0
+Cabo Verde,15826,154,Community transmission,3554797.0
+Réunion,13801,71,Community transmission,3475842.0
+Tajikistan,13714,91,Pending,3277152.0
+Haiti,12594,251,Community transmission,3287242.0
+Belize,12335,315,Community transmission,2964219.0
+Burkina Faso,12187,143,Community transmission,2963429.0
+Andorra,11089,112,Community transmission,2889284.0
+Lesotho,10523,308,Community transmission,2877239.0
+Guadeloupe,10458,168,Community transmission,2846860.0
+Congo,9329,131,Community transmission,2715340.0
+Suriname,8980,175,Clusters of cases,2548663.0
+South Sudan,8870,102,Community transmission,2427782.0
+Guyana,8814,203,Clusters of cases,2359585.0
+Mali,8710,358,Community transmission,2234448.0
+Bahamas,8642,185,Clusters of cases,2145194.0
+Somalia,8577,319,Community transmission,2083359.0
+Aruba,8127,77,Community transmission,2078989.0
+Trinidad and Tobago,7736,140,Community transmission,1975718.0
+Togo,7680,92,Community transmission,1882408.0
+Guam,7543,133,Clusters of cases,1711057.0
+Martinique,6886,47,Community transmission,1410419.0
+Benin,6504,81,Community transmission,1400283.0
+Equatorial Guinea,6371,96,Community transmission,1326693.0
+Djibouti,6181,63,Community transmission,1322667.0
+Iceland,6067,29,Community transmission,1272140.0
+Nicaragua,5216,175,Community transmission,1208886.0
+Central African Republic,5021,63,Community transmission,1162233.0
+Niger,4829,177,Community transmission,990447.0
+Curaçao,4813,22,Community transmission,897573.0
+Gambia,4759,152,Community transmission,896422.0
+Gibraltar,4249,93,Clusters of cases,872695.0
+Chad,4214,144,Community transmission,787215.0
+San Marino,3984,77,Community transmission,773069.0
+Sierra Leone,3922,79,Community transmission,689671.0
+Saint Lucia,3902,46,Community transmission,650846.0
+Comoros,3611,146,Community transmission,628080.0
+Mongolia,3372,3,Clusters of cases,627704.0
+Barbados,3333,37,Community transmission,599769.0
+Guinea-Bissau,3319,49,Community transmission,587541.0
+Jersey,3220,69,Community transmission,557026.0
+Seychelles,2989,14,Community transmission,542151.0
+Eritrea,2944,7,Community transmission,441750.0
+United States Virgin Islands,2744,25,Community transmission,438202.0
+Liechtenstein,2670,53,Sporadic cases,400136.0
+Yemen,2590,655,Community transmission,398845.0
+Viet Nam,2526,35,Clusters of cases,393893.0
+Burundi,2369,3,Community transmission,375213.0
+Turks and Caicos Islands,2177,15,Clusters of cases,341628.0
+Sint Maarten,2074,27,Community transmission,308337.0
+New Zealand,2054,26,Clusters of cases,299958.0
+Monaco,2048,26,Sporadic cases,287437.0
+Liberia,2024,85,Community transmission,285972.0
+Sao Tome and Principe,1977,32,Community transmission,281191.0
+Papua New Guinea,1741,21,Community transmission,273905.0
+Saint Vincent and the Grenadines,1663,8,Community transmission,219844.0
+Saint Martin,1581,12,Community transmission,198643.0
+Cambodia,1124,0,Sporadic cases,183774.0
+Bhutan,868,1,Sporadic cases,174140.0
+Antigua and Barbuda,862,22,Clusters of cases,169031.0
+Guernsey,821,14,Community transmission,164211.0
+Isle of Man,757,25,No cases,119760.0
+Other,745,13,Not applicable,115231.0
+Bermuda,724,12,Sporadic cases,112614.0
+Saint Barthélemy,671,0,Clusters of cases,111002.0
+Faroe Islands,660,1,Sporadic cases,106845.0
+Mauritius,641,10,Sporadic cases,105901.0
+Bonaire,538,5,Community transmission,104398.0
+United Republic of Tanzania,509,21,Pending,98453.0
+Cayman Islands,451,2,Sporadic cases,98069.0
+Brunei Darussalam,191,3,Sporadic cases,85112.0
+British Virgin Islands,154,1,Clusters of cases,77287.0
+Dominica,151,0,Clusters of cases,72017.0
+Grenada,151,1,Sporadic cases,65854.0
+Northern Mariana Islands (Commonwealth of the),146,2,Pending,62237.0
+Timor-Leste,142,0,Clusters of cases,59259.0
+New Caledonia,70,0,Sporadic cases,57619.0
+Fiji,66,2,Sporadic cases,56787.0
+Wallis and Futuna,64,0,Sporadic cases,55169.0
+Falkland Islands (Malvinas),51,0,No cases,53264.0
+Lao People's Democratic Republic,47,0,Sporadic cases,48896.0
+Saint Kitts and Nevis,41,0,Sporadic cases,42960.0
+Greenland,31,0,No cases,39290.0
+Holy See,26,0,Sporadic cases,38806.0
+Saint Pierre and Miquelon,24,0,No cases,38778.0
+Montserrat,20,1,Sporadic cases,38147.0
+Sint Eustatius,20,0,No cases,33944.0
+Anguilla,18,0,Sporadic cases,33689.0
+Solomon Islands,18,0,No cases,30266.0
+Saba,6,0,No cases,26265.0
+Marshall Islands,4,0,No cases,18109.0
+Samoa,4,0,No cases,17567.0
+Vanuatu,3,0,No cases,15026.0
+American Samoa,0,0,No cases,11817.0
+Cook Islands,0,0,No cases,11203.0
+Democratic People's Republic of Korea,0,0,No cases,10836.0
+Kiribati,0,0,No cases,9882.0
+Micronesia (Federated States of),0,0,No cases,6080.0
+Nauru,0,0,No cases,5789.0
+Niue,0,0,No cases,4993.0
+Palau,0,0,No cases,3497.0
+Pitcairn Islands,0,0,No cases,1628.0
+Tokelau,0,0,No cases,1360.0
+Tonga,0,0,No cases,801.0
+Turkmenistan,0,0,No cases,
+Tuvalu,0,0,No cases,
